@@ -1,0 +1,6 @@
+C:\Users\denar\source\repos\Less\task_3\obj\Debug\task_3.csprojAssemblyReference.cache
+C:\Users\denar\source\repos\Less\task_3\bin\Debug\task_3.exe.config
+C:\Users\denar\source\repos\Less\task_3\bin\Debug\task_3.exe
+C:\Users\denar\source\repos\Less\task_3\bin\Debug\task_3.pdb
+C:\Users\denar\source\repos\Less\task_3\obj\Debug\task_3.exe
+C:\Users\denar\source\repos\Less\task_3\obj\Debug\task_3.pdb
