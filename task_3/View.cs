@@ -4,9 +4,16 @@ namespace print_pause
 {
     public class View
     {
-        public static void Print (object value)
+        public static void Print (object value, bool isNewLine = true)
         {
-            Console.WriteLine(value);
+            if (isNewLine)
+            {
+                Console.WriteLine(value);
+            }
+            else
+            {
+                Console.Write(value);
+            }
         }
 
         public static void Pause ()
@@ -14,5 +21,12 @@ namespace print_pause
             Console.ReadKey();
         }
 
+        public static int GetInt()
+        {
+            while (true)
+                if (!int.TryParse(Console.ReadLine(), out int x))
+                    Console.Write("Неверный ввод (требуется числовое значение).\nПожалуйста, повторите ввод: ");
+                else return x;
+        }
     }
 }

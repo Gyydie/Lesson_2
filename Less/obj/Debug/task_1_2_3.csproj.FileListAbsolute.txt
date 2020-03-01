@@ -1,0 +1,6 @@
+C:\Users\denar\source\repos\Less\Less\bin\Debug\Less.exe.config
+C:\Users\denar\source\repos\Less\Less\bin\Debug\Less.exe
+C:\Users\denar\source\repos\Less\Less\bin\Debug\Less.pdb
+C:\Users\denar\source\repos\Less\Less\obj\Debug\task_1_2_3.csprojAssemblyReference.cache
+C:\Users\denar\source\repos\Less\Less\obj\Debug\Less.exe
+C:\Users\denar\source\repos\Less\Less\obj\Debug\Less.pdb
